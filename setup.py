@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='vintage',
-    url='https://github.com/PyCQA/pylint-django',
+    url='https://github.com/ngtvspc/vintage',
     author='Shawn Shojaie',
     author_email='',
     description='',
