@@ -4,7 +4,7 @@ Setup module for Pylint plugin for Django.
 from setuptools import setup, find_packages
 
 setup(
-    name='pylint-django',
+    name='vintage',
     url='https://github.com/PyCQA/pylint-django',
     author='Shawn Shojaie',
     author_email='',
